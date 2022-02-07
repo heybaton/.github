@@ -1,4 +1,4 @@
-## baton
+## Baton
 Less labor with better workflows
 
 <!--
